@@ -13,6 +13,6 @@ public class PruebaGitHub {
 
     public static void main(String[] args) {
         System.out.println("Hola Mundo!");
-        int a = 21;
+        int a = 1;
     }
 }
